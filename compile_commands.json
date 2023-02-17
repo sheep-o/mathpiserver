@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-g",
+      "-I./",
+      "-I/opt/homebrew/Cellar/boost/1.81.0_1/include",
+      "-I/System/Volumes/Data/opt/homebrew/include/",
+      "-std=c++20",
+      "-I/opt/homebrew/opt/opencv/include/opencv4",
+      "-c",
+      "main.cpp"
+    ],
+    "directory": "/Users/rami/mathpiserver",
+    "file": "/Users/rami/mathpiserver/main.cpp"
+  }
+]
